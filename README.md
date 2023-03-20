@@ -1,5 +1,15 @@
 # Project's outputs
 
+Table of contents:
+
+1. Papers
+2. Working papers
+3. Conferences
+4. Theses
+5. Data
+
+## Papers 
+
 ## Working papers
 
 ## Conferences
@@ -17,3 +27,5 @@
 
 + Chlebicki (2022) -- Point and interval estimation of hidden population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej populacji) -- praca licencjacka
 + Mordan (2022) --  Implementation of the empirical likelihood method for non-ignorable non-response in the R statistical package (pol. Implementacja metody empirical likelihood dla informatywnego braku odpowiedzi w pakiecie statystycznym R) -- praca magisterska
+
+## Data
