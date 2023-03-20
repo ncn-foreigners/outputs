@@ -12,3 +12,8 @@
 + Beręsewicz (2022a) Estymacja długości pobytu cudzoziemców w Polsce z wykorzystaniem mobile big data, 40th International Conference MSA'2022 joined with MASEP, 7-9  listopada 2022, Łódź, Polska [link do strony konf](https://sites.google.com/view/msa2021pl/program/program-konferencji)
 
 ## Theses
+
+### 2022
+
++ Chlebicki (2022) -- Point and interval estimation of hidden population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej populacji) -- praca licencjacka
++ Mordan (2022) --  Implementation of the empirical likelihood method for non-ignorable non-response in the R statistical package (pol. Implementacja metody empirical likelihood dla informatywnego braku odpowiedzi w pakiecie statystycznym R) -- praca magisterska
