@@ -3,10 +3,10 @@
 Table of contents:
 
 1. [Papers](#papers)
-2. Working papers
-3. Conferences
-4. Theses
-5. Data
+2. [Working papers](#working-papers)
+3. [Conferences](#conferences)
+4. [Theses](#theses)
+5. [Data](#data)
 
 ## Papers 
 
