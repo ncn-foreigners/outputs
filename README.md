@@ -2,7 +2,7 @@
 
 Table of contents:
 
-1. Papers
+1. [Papers](#papers)
 2. Working papers
 3. Conferences
 4. Theses
