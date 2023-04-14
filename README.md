@@ -8,7 +8,7 @@ Table of contents:
 4. [Theses](#theses)
 5. [Data](#data)
 
-## Papers 
+## Papers (published / accepted)
 
 ## Working papers
 
