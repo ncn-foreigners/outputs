@@ -8,6 +8,7 @@ Table of contents:
 4. [Theses](#theses)
 5. [Software](#software)
 6. [Data](#data)
+7. [Media coverage][#media-coverage]
 
 ## Publications 
 
@@ -45,3 +46,5 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 ## Software
 
 ## Data
+
+## Media coverage
