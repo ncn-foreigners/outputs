@@ -27,7 +27,7 @@ Table of contents:
 
 + Beręsewicz (2023) *Estimation of the length of stay of foreigners in Poland using mobile big data*, [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en) ([abstract p. 410](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [recording around 16:03](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308))
 + Chlebicki and Beręsewicz (2023) *Estimation of hidden populations using single-source capture recapture models with
-singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en)  ([abstract p. 64](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [poster]())
+singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en)  ([abstract p. 64](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [poster](posters/2023-chlebicki-beresewicz-ntts2023-poster.pdf))
 
 ### 2022
 
