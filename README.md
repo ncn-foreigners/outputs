@@ -12,6 +12,8 @@ Table of contents:
 
 ## Working papers
 
++ Chlebicki and Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
+
 ## Conferences
 
 ### 2023
