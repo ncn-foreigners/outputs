@@ -2,13 +2,19 @@
 
 Table of contents:
 
-1. [Papers](#papers)
+1. [Publications](#Publications)
 2. [Working papers](#working-papers)
 3. [Conferences](#conferences)
 4. [Theses](#theses)
 5. [Data](#data)
 
-## Papers (published / accepted)
+## Publications 
+
+### Papers
+
+### Conference proceedings
+
+### Books 
 
 ## Working papers
 
