@@ -13,6 +13,7 @@ Table of contents:
 ## Working papers
 
 + Chlebicki and Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
++ Beręsewicz (2023) *Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne* ([paper](https://github.com/ncn-foreigners/paper-pan-short/blob/main/pan-artykul.pdf), [replication](https://github.com/ncn-foreigners/paper-pan-short))
 
 ## Conferences
 
