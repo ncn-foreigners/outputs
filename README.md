@@ -25,14 +25,16 @@ Table of contents:
 
 ### 2023
 
-+ Beręsewicz (2023) *Estimation of the length of stay of foreigners in Poland using mobile big data*, [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en) ([abstract p. 410](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [recording around 16:03](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308))
++ Beręsewicz (2023) *Estimation of the length of stay of foreigners in Poland using mobile big data*, [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en) ([abstract p. 410](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [recording around 16:03](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308), [presentation](prepresentations/2023-beresewicz-ntts2023.pdf))
 + Chlebicki and Beręsewicz (2023) *Estimation of hidden populations using single-source capture recapture models with
 singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en)  ([abstract p. 64](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [poster](posters/2023-chlebicki-beresewicz-ntts2023-poster.pdf))
 
 ### 2022
 
-+ Beręsewicz (2022b) Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne. Dwugłos Nauki -- ,,Migracje – historia i teraźniejszość'', 21.11.2022, Oddział PAN w Poznaniu [link do strony wydarzenia](https://poznan.pan.pl/?mec-events=migracje-historia-i-terazniejszosc-xxiv-sesja-naukowa-z-cyklu-dwuglos-nauki)
-+ Beręsewicz (2022a) Estymacja długości pobytu cudzoziemców w Polsce z wykorzystaniem mobile big data, 40th International Conference MSA'2022 joined with MASEP, 7-9  listopada 2022, Łódź, Polska [link do strony konf](https://sites.google.com/view/msa2021pl/program/program-konferencji)
++ Beręsewicz (2022b) Estimating the length of foreigners’ stay in Poland using mobile big data, 8.12.2022, S3RI Seminar at University of Southampton ([presentation](prepresentations/2022-beresewicz-s3ri.pdf))
++ Beręsewicz (2022b) Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne. Dwugłos Nauki -- ,,Migracje – historia i teraźniejszość'', 21.11.2022, Oddział PAN w Poznaniu ([link do strony wydarzenia](https://poznan.pan.pl/?mec-events=migracje-historia-i-terazniejszosc-xxiv-sesja-naukowa-z-cyklu-dwuglos-nauki), [prezentacja](prepresentations/2022-beresewicz-pan.pdf))
++ Beręsewicz (2022a) Estymacja długości pobytu cudzoziemców w Polsce z wykorzystaniem mobile big data, 40th International Conference MSA'2022 joined with MASEP, 7-9  listopada 2022, Łódź, Polska ([link do strony konf](https://sites.google.com/view/msa2021pl/program/program-konferencji), [prezentacja](prepresentations/2022-beresewicz-s3ri.pdf))
+
 
 ## Theses
 
