@@ -47,6 +47,10 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 
 ## Software
 
++ [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy)  -- an R package for modern methods for non-probability surveys [in development]
++ [singleRcapture](https://github.com/ncn-foreigners/singleRcapture) -- an R package for single-source capture-recapture methods [in development]
++ [mecRecordLinkage](https://github.com/ncn-foreigners/mecRecordLinkage) -- an R package for maximum entropy for record linkage [in development]
+
 ## Data
 
 ## Media coverage
