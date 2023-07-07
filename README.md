@@ -25,8 +25,9 @@ Table of contents:
 
 ## Conferences
 
-### 2023
+### 2023 
 
++ Beręsewicz, Szałtys (2023) *Statystyczna integracja rejestrów administracyjnych na potrzeby estymacji charakterystyk populacji cudzoziemców w Polsce*, [MET 2023, 23.06.2023](https://met2023.stat.gov.pl/), [prezentacja](presentations/2023-beresewicz-met2023.pdf).
 + Beręsewicz (2023) *Ilu jest w Polsce cudzoziemców? Metody szacunku wielkości populacji w oparciu o rejestry administracyjne i big data*, [Data Analytics Meeting, 23.06.2023](https://zie.pg.edu.pl/wydarzenia-wzie/data-analytics-meeting), Referat zaproszony (konferencja studencka).
 + Beręsewicz (2023) *Estimation of the length of stay of foreigners in Poland using mobile big data*, [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en) ([abstract p. 410](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [recording around 16:03](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308), [presentation](presentations/2023-beresewicz-ntts2023.pdf))
 + Chlebicki and Beręsewicz (2023) *Estimation of hidden populations using single-source capture recapture models with
