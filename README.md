@@ -27,6 +27,7 @@ Table of contents:
 
 ### 2023 
 
++ Beręsewicz, Chrostowski (2023) *Statistical inference using non-probability survey samples with misclassification in all variables*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [prezentacja](presentations/2023-beresewicz-esra.pdf)
 + Chlebicki, Beręsewicz (2023) *singleRcapture -- an R package for single-source capture-recapture models*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [prezentacja](presentations/2023-chlebicki-esra.pdf)
 + Beręsewicz, Szałtys (2023) *Statystyczna integracja rejestrów administracyjnych na potrzeby estymacji charakterystyk populacji cudzoziemców w Polsce*, [MET 2023, 23.06.2023](https://met2023.stat.gov.pl/), [prezentacja](presentations/2023-beresewicz-met2023.pdf).
 + Beręsewicz (2023) *Ilu jest w Polsce cudzoziemców? Metody szacunku wielkości populacji w oparciu o rejestry administracyjne i big data*, [Data Analytics Meeting, 23.06.2023](https://zie.pg.edu.pl/wydarzenia-wzie/data-analytics-meeting), Referat zaproszony (konferencja studencka).
