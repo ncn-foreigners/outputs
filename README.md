@@ -18,21 +18,24 @@ Table of contents:
 
 ### Books 
 
-## Working papers
+## Working papers / materials
 
-+ Chlebicki and Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
++ Chrostowski, Beręsewicz (2023) *Modern inference methods for non-probability samples with R* ([book](https://ncn-foreigners.github.io/nonprobsvy-book/))
++ Beręsewicz, Szymkowiak (2023) *A note on joint calibration estimators for totals and quantiles*  ([paper](https://github.com/ncn-foreigners/paper-note-joint-calibration/blob/main/paper/beresewicz-szymkowiak-jointcalib.pdf), [replication](https://github.com/ncn-foreigners/paper-note-joint-calibration))
++ Chlebicki, Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
 + Beręsewicz (2023) *Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne* ([paper](https://github.com/ncn-foreigners/paper-pan-short/blob/main/pan-artykul.pdf), [replication](https://github.com/ncn-foreigners/paper-pan-short))
 
 ## Conferences
 
 ### 2023 
 
++ Chrostowski, Beręsewicz (2023) *nonprobsvy -- an R package for non-probability samples*, [BANOCOSS2023, 22.08.2023](https://wiki.helsinki.fi/display/BNU/BANOCOSS2023), [prezentacja (TBA)]()
 + Beręsewicz, Chrostowski (2023) *Statistical inference using non-probability survey samples with misclassification in all variables*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [prezentacja](presentations/2023-beresewicz-esra.pdf)
 + Chlebicki, Beręsewicz (2023) *singleRcapture -- an R package for single-source capture-recapture models*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [prezentacja](presentations/2023-chlebicki-esra.pdf)
 + Beręsewicz, Szałtys (2023) *Statystyczna integracja rejestrów administracyjnych na potrzeby estymacji charakterystyk populacji cudzoziemców w Polsce*, [MET 2023, 23.06.2023](https://met2023.stat.gov.pl/), [prezentacja](presentations/2023-beresewicz-met2023.pdf).
 + Beręsewicz (2023) *Ilu jest w Polsce cudzoziemców? Metody szacunku wielkości populacji w oparciu o rejestry administracyjne i big data*, [Data Analytics Meeting, 23.06.2023](https://zie.pg.edu.pl/wydarzenia-wzie/data-analytics-meeting), Referat zaproszony (konferencja studencka).
 + Beręsewicz (2023) *Estimation of the length of stay of foreigners in Poland using mobile big data*, [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en) ([abstract p. 410](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [recording around 16:03](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308), [presentation](presentations/2023-beresewicz-ntts2023.pdf))
-+ Chlebicki and Beręsewicz (2023) *Estimation of hidden populations using single-source capture recapture models with
++ Chlebicki, Beręsewicz (2023) *Estimation of hidden populations using single-source capture recapture models with
 singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://cros-legacy.ec.europa.eu/content/NTTS2023_en)  ([abstract p. 64](https://cros-legacy.ec.europa.eu/sites/default/files/book_of_abstracts.pdf), [poster](posters/2023-chlebicki-beresewicz-ntts2023-poster.pdf))
 
 ### 2022
