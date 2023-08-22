@@ -29,7 +29,7 @@ Table of contents:
 
 ### 2023 
 
-+ Chrostowski, Beręsewicz (2023) *nonprobsvy -- an R package for non-probability samples*, [BANOCOSS2023, 22.08.2023](https://wiki.helsinki.fi/display/BNU/BANOCOSS2023), [presentation](presentations/2023-chrostowski-banacoss2023.pdf)
++ Chrostowski, Beręsewicz (2023) *nonprobsvy -- an R package for non-probability samples*, [BANOCOSS2023, 22.08.2023](https://wiki.helsinki.fi/display/BNU/BANOCOSS2023), [presentation](presentations/2023-chrostowski-banocoss2023.pdf)
 + Beręsewicz, Chrostowski (2023) *Statistical inference using non-probability survey samples with misclassification in all variables*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [presentation](presentations/2023-beresewicz-esra.pdf)
 + Chlebicki, Beręsewicz (2023) *singleRcapture -- an R package for single-source capture-recapture models*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [presentation](presentations/2023-chlebicki-esra.pdf)
 + Beręsewicz, Szałtys (2023) *Statystyczna integracja rejestrów administracyjnych na potrzeby estymacji charakterystyk populacji cudzoziemców w Polsce*, [MET 2023, 23.06.2023](https://met2023.stat.gov.pl/), [presentation](presentations/2023-beresewicz-met2023.pdf).
