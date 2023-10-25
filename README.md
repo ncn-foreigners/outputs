@@ -20,6 +20,7 @@ Table of contents:
 
 ## Working papers / materials
 
++ Beręsewicz (2023) *Survey calibration for causal inference: a simple method to balance covariate distributions* ([paper](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies/blob/main/paper/2023-beresewicz-causal-balancing.pdf), [replication](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies))
 + Chrostowski, Beręsewicz (2023) *Modern inference methods for non-probability samples with R* ([book](https://ncn-foreigners.github.io/nonprobsvy-book/))
 + Beręsewicz, Szymkowiak (2023) *A note on joint calibration estimators for totals and quantiles*  ([paper](https://github.com/ncn-foreigners/paper-note-joint-calibration/blob/main/paper/beresewicz-szymkowiak-jointcalib.pdf), [replication](https://github.com/ncn-foreigners/paper-note-joint-calibration))
 + Chlebicki, Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
@@ -29,7 +30,7 @@ Table of contents:
 
 ### 2023 
 
-+ Chrostowski, Beręsewicz (2023) *Nonprobsvy - An R package for statistical inference with non-probability samples*, [RSS 2023, 07.09.2023](https://virtual.oxfordabstracts.com/#/event/4019/submission/86), [presentation](presentations/2023-chrostowski-rss.pdf)
++ Chrostowski, Beręsewicz (2023) *nonprobsvy - An R package for statistical inference with non-probability samples*, [RSS 2023, 07.09.2023](https://virtual.oxfordabstracts.com/#/event/4019/submission/86), [presentation](presentations/2023-chrostowski-rss.pdf)
 + Chlebicki, Beręsewicz (2023) *Estimating the population size of drunk-drivers in Poland using heterogeneous one-inflation and hurdle-like approach in single source capture-recapture studies*, [RSS 2023, 06.09.2023](https://virtual.oxfordabstracts.com/#/event/4019/submission/88), [presentation](presentations/2023-chlebicki-rss.pdf)
 + Chrostowski, Beręsewicz (2023) *nonprobsvy -- an R package for non-probability samples*, [BANOCOSS2023, 22.08.2023](https://wiki.helsinki.fi/display/BNU/BANOCOSS2023), [presentation](presentations/2023-chrostowski-banocoss2023.pdf)
 + Beręsewicz, Chrostowski (2023) *Statistical inference using non-probability survey samples with misclassification in all variables*, [ESRA 2023, 20.07.2023](https://www.europeansurveyresearch.org/conference/milan-2023/), [presentation](presentations/2023-beresewicz-esra.pdf)
