@@ -67,6 +67,7 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 + [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy)  -- an R package for modern methods for non-probability surveys
 + [mecRecordLinkage](https://github.com/ncn-foreigners/mecRecordLinkage) -- an R package for maximum entropy for record linkage 
 + [blocking](https://github.com/ncn-foreigners/blocking) -- An R package for blocking records for record linkage / data deduplication based on approximate nearest neighbours algorithms [website](https://ncn-foreigners.github.io/blocking/)
++ [singleRcaptureExtra](https://github.com/ncn-foreigners/singleRcaptureExtra) -- An R package for singleRcapture methods for VGAM and countreg
 
 ## Data
 
