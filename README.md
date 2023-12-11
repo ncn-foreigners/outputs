@@ -18,6 +18,10 @@ Table of contents:
 
 ### Books 
 
+### Workshops
+
++ 2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z wykorzystaniem pakietu [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy) w języku R ([materiały](https://github.com/ncn-foreigners/workshops), [nagranie](https://www.youtube.com/watch?v=_YrmeyH4-r4))
+
 ## Working papers / materials
 
 + Beręsewicz (2023) *Survey calibration for causal inference: a simple method to balance covariate distributions* ([paper](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies/blob/main/paper/2023-beresewicz-causal-balancing.pdf), [replication](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies))
