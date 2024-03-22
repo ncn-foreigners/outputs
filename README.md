@@ -24,7 +24,9 @@ Table of contents:
 
 ## Working papers / materials
 
-+ Beręsewicz (2023) *Survey calibration for causal inference: a simple method to balance covariate distributions* ([paper](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies/blob/main/paper/2023-beresewicz-causal-balancing.pdf), [replication](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies))
++ Chlebicki, Chrostowski, Beręsewicz (2024) *Data integration of non-probability and probability samples with predictive mean matching* ([paper](https://arxiv.org/abs/2403.13750v1), [replication](https://github.com/ncn-foreigners/paper-nonprob-pmm))
++ Beręsewicz, Szymkowiak (2024) *Inference for non-probability samples using the calibration approach for quantiles* ([paper](https://arxiv.org/abs/2403.09726), [replication](https://github.com/ncn-foreigners/paper-nonprob-qcal))
++ Beręsewicz (2024) *Survey calibration for causal inference: a simple method to balance covariate distributions* ([paper]([https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies/blob/main/paper/2023-beresewicz-causal-balancing.pdf](https://arxiv.org/abs/2310.11969)), [replication](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies))
 + Chrostowski, Beręsewicz (2023) *Modern inference methods for non-probability samples with R* ([book](https://ncn-foreigners.github.io/nonprobsvy-book/))
 + Beręsewicz, Szymkowiak (2023) *A note on joint calibration estimators for totals and quantiles*  ([paper](https://github.com/ncn-foreigners/paper-note-joint-calibration/blob/main/paper/beresewicz-szymkowiak-jointcalib.pdf), [replication](https://github.com/ncn-foreigners/paper-note-joint-calibration))
 + Chlebicki, Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
