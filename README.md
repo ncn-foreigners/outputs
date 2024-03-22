@@ -65,14 +65,14 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 
 ### CRAN
 
-+ [singleRcapture](https://github.com/ncn-foreigners/singleRcapture) -- an R package for single-source capture-recapture methods [0.2.1.1 on CRAN](https://CRAN.R-project.org/package=singleRcapture t) [website](https://ncn-foreigners.github.io/singleRcapture/)
-+ [jointCalib](https://github.com/ncn-foreigners/jointCalib) -- A small package for joint calibration of totals and quantiles [0.1.0 on CRAN](https://CRAN.R-project.org/package=jointCalib) [website](https://ncn-foreigners.github.io/jointCalib/)
++ [singleRcapture](https://github.com/ncn-foreigners/singleRcapture) -- an R package for single-source capture-recapture methods [[0.2.1.1 on CRAN](https://CRAN.R-project.org/package=singleRcapture)] [[website](https://ncn-foreigners.github.io/singleRcapture/)]
++ [jointCalib](https://github.com/ncn-foreigners/jointCalib) -- A small package for joint calibration of totals and quantiles [[0.1.0 on CRAN](https://CRAN.R-project.org/package=jointCalib)] [[website](https://ncn-foreigners.github.io/jointCalib/)]
 
 ### Development
 
-+ [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy)  -- an R package for modern methods for non-probability surveys
++ [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy)  -- an R package for modern methods for non-probability surveys [[website](https://ncn-foreigners.github.io/nonprobsvy/)]
 + [mecRecordLinkage](https://github.com/ncn-foreigners/mecRecordLinkage) -- an R package for maximum entropy for record linkage 
-+ [blocking](https://github.com/ncn-foreigners/blocking) -- An R package for blocking records for record linkage / data deduplication based on approximate nearest neighbours algorithms [website](https://ncn-foreigners.github.io/blocking/)
++ [blocking](https://github.com/ncn-foreigners/blocking) -- An R package for blocking records for record linkage / data deduplication based on approximate nearest neighbours algorithms [[website](https://ncn-foreigners.github.io/blocking/)]
 + [singleRcaptureExtra](https://github.com/ncn-foreigners/singleRcaptureExtra) -- An R package for singleRcapture methods for VGAM and countreg
 
 ## Data
