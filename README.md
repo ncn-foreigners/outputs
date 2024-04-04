@@ -2,13 +2,14 @@
 
 Table of contents:
 
-1. [Publications](#Publications)
+1. [Publications](#publications)
 2. [Working papers](#working-papers)
 3. [Conferences](#conferences)
 4. [Theses](#theses)
 5. [Software](#software)
-6. [Data](#data)
-7. [Media coverage](#media-coverage)
+6. [Workshops](#workshops)
+7. [Data](#data)
+8. [Media coverage](#media-coverage)
 
 ## Publications 
 
@@ -16,13 +17,12 @@ Table of contents:
 
 ### Conference proceedings
 
++ Beręsewicz, M. (2023). *Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne*. W M. Świtoński (red.), Migracje – historia i teraźniejszość (s. 35–50). Polska Akademia Nauk, Oddział w Poznaniu.
+ ([paper](https://github.com/ncn-foreigners/paper-pan-short/blob/main/pan-artykul.pdf), [replication](https://github.com/ncn-foreigners/paper-pan-short))
+
 ### Books 
 
-### Workshops
-
-+ 2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z wykorzystaniem pakietu [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy) w języku R ([materiały](https://github.com/ncn-foreigners/workshops), [nagranie](https://www.youtube.com/watch?v=_YrmeyH4-r4))
-
-## Working papers / materials
+## Working papers
 
 + Chlebicki, Chrostowski, Beręsewicz (2024) *Data integration of non-probability and probability samples with predictive mean matching* ([paper](https://arxiv.org/abs/2403.13750v1), [replication](https://github.com/ncn-foreigners/paper-nonprob-pmm))
 + Beręsewicz, Szymkowiak (2024) *Inference for non-probability samples using the calibration approach for quantiles* ([paper](https://arxiv.org/abs/2403.09726), [replication](https://github.com/ncn-foreigners/paper-nonprob-qcal))
@@ -30,7 +30,6 @@ Table of contents:
 + Chrostowski, Beręsewicz (2023) *Modern inference methods for non-probability samples with R* ([book](https://ncn-foreigners.github.io/nonprobsvy-book/))
 + Beręsewicz, Szymkowiak (2023) *A note on joint calibration estimators for totals and quantiles*  ([paper](https://github.com/ncn-foreigners/paper-note-joint-calibration/blob/main/paper/beresewicz-szymkowiak-jointcalib.pdf), [replication](https://github.com/ncn-foreigners/paper-note-joint-calibration))
 + Chlebicki, Beręsewicz (2023) *A note on Nour (1982) dual-system estimator*  ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf), [replication](https://github.com/ncn-foreigners/paper-nour-note))
-+ Beręsewicz (2023) *Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne* ([paper](https://github.com/ncn-foreigners/paper-pan-short/blob/main/pan-artykul.pdf), [replication](https://github.com/ncn-foreigners/paper-pan-short))
 
 ## Conferences
 
@@ -67,13 +66,17 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 
 + [singleRcapture](https://github.com/ncn-foreigners/singleRcapture) -- an R package for single-source capture-recapture methods [[0.2.1.1 on CRAN](https://CRAN.R-project.org/package=singleRcapture)] [[website](https://ncn-foreigners.github.io/singleRcapture/)]
 + [jointCalib](https://github.com/ncn-foreigners/jointCalib) -- A small package for joint calibration of totals and quantiles [[0.1.0 on CRAN](https://CRAN.R-project.org/package=jointCalib)] [[website](https://ncn-foreigners.github.io/jointCalib/)]
-
++ [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy)  -- an R package for modern methods for non-probability surveys [[0.1.0 on CRAN](https://CRAN.R-project.org/package=nonprobsvy)] [[website](https://ncn-foreigners.github.io/nonprobsvy/)]
+  
 ### Development
 
-+ [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy)  -- an R package for modern methods for non-probability surveys [[website](https://ncn-foreigners.github.io/nonprobsvy/)]
 + [mecRecordLinkage](https://github.com/ncn-foreigners/mecRecordLinkage) -- an R package for maximum entropy for record linkage 
 + [blocking](https://github.com/ncn-foreigners/blocking) -- An R package for blocking records for record linkage / data deduplication based on approximate nearest neighbours algorithms [[website](https://ncn-foreigners.github.io/blocking/)]
 + [singleRcaptureExtra](https://github.com/ncn-foreigners/singleRcaptureExtra) -- An R package for singleRcapture methods for VGAM and countreg
+
+## Workshops
+
++ 2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z wykorzystaniem pakietu [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy) w języku R ([materiały](https://github.com/ncn-foreigners/workshops), [nagranie](https://www.youtube.com/watch?v=_YrmeyH4-r4))
 
 ## Data
 
