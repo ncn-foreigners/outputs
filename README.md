@@ -24,6 +24,7 @@ Table of contents:
 
 ## Working papers
 
++ Beręsewicz (2024) *A note on quantile balanced sampling* ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling), [replication](https://github.com/ncn-foreigners/paper-qbalanced-sampling))
 + Chlebicki, Chrostowski, Beręsewicz (2024) *Data integration of non-probability and probability samples with predictive mean matching* ([paper](https://arxiv.org/abs/2403.13750v1), [replication](https://github.com/ncn-foreigners/paper-nonprob-pmm))
 + Beręsewicz, Szymkowiak (2024) *Inference for non-probability samples using the calibration approach for quantiles* ([paper](https://arxiv.org/abs/2403.09726), [replication](https://github.com/ncn-foreigners/paper-nonprob-qcal))
 + Beręsewicz (2024) *Survey calibration for causal inference: a simple method to balance covariate distributions* ([paper]([https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies/blob/main/paper/2023-beresewicz-causal-balancing.pdf](https://arxiv.org/abs/2310.11969)), [replication](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies))
@@ -55,11 +56,9 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 
 ## Theses
 
-### 2022
-
 + Chlebicki (2022) -- Point and interval estimation of hidden population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej populacji) -- [praca licencjacka](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf)
 + Mordan (2022) --  Implementation of the empirical likelihood method for non-ignorable non-response in the R statistical package (pol. Implementacja metody empirical likelihood dla informatywnego braku odpowiedzi w pakiecie statystycznym R) -- [praca magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-mordan.pdf)
-+ 2024 - Piotr Chlebicki (UAM, Masters's thesis) -- Vector generalized linear models and their selected applications (pol. Wektorowe uogólnione modele liniowe oraz ich wybrane zastosowania) -- [praca magisterska]([2024-chlebicki.pdf](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf))
++ Chlebicki (2024) -- Vector generalized linear models and their selected applications (pol. Wektorowe uogólnione modele liniowe oraz ich wybrane zastosowania) -- [praca magisterska]([2024-chlebicki.pdf](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf))
 
 ## Software
 
