@@ -59,7 +59,7 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 + Chlebicki (2022) -- Point and interval estimation of hidden population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej populacji) -- [praca licencjacka](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf)
 + Mordan (2022) --  Implementation of the empirical likelihood method for non-ignorable non-response in the R statistical package (pol. Implementacja metody empirical likelihood dla informatywnego braku odpowiedzi w pakiecie statystycznym R) -- [praca magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-mordan.pdf)
 + Chlebicki (2024) -- Vector generalized linear models and their selected applications (pol. Wektorowe uogólnione modele liniowe oraz ich wybrane zastosowania) -- [praca magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf)
-+ Chrostowski (2024) --  [Statistical inference with non-probability samples (pol. Wnioskowanie statystyczne na podstawie prób nieprobablistycznych)](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
++ Chrostowski (2024) --  Statistical inference with non-probability samples (pol. Wnioskowanie statystyczne na podstawie prób nieprobablistycznych) -- [praca magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
 
 ## Software
 
