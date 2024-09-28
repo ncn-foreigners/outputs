@@ -77,8 +77,10 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 
 ## Workshops
 
-+ 2024.04.24 - Workshop on the [`nonprobsvy`](https://cran.r-project.org/package=nonprobsvy) package ([materials](https://github.com/ncn-foreigners/workshops), [recording](https://www.youtube.com/watch?v=ZcOzGK6jhSg))
 + 2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z wykorzystaniem pakietu [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy) w języku R ([materiały](https://github.com/ncn-foreigners/workshops), [nagranie](https://www.youtube.com/watch?v=_YrmeyH4-r4))
++ 2024.04.24 -- Workshop on the [`nonprobsvy`](https://cran.r-project.org/package=nonprobsvy) package ([materials](https://github.com/ncn-foreigners/workshops), [recording](https://www.youtube.com/watch?v=ZcOzGK6jhSg))
++ 2024.08.27 -- Workshop on the [`singleRcapture`](https://cran.r-project.org/package=singleRcapture) package ([materials](https://github.com/ncn-foreigners/Workshop-on-Survey-Statistics-2024-singleRcapture))
++ 2024.08.27 -- Workshop on the [`nonprobsvy`](https://cran.r-project.org/package=nonprobsvy) package ([materials](https://github.com/ncn-foreigners/Workshop-on-Survey-Statistics-2024-nonprobsvy))
 
 ## Data
 
