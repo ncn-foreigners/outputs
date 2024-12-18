@@ -10,6 +10,7 @@ Table of contents:
 6. [Workshops](#workshops)
 7. [Data](#data)
 8. [Media coverage](#media-coverage)
+9. [Awards](#awards)
 
 ## Publications 
 
@@ -82,3 +83,7 @@ singleRcapture package* [NTTS 2023, 6-10.03.2023 (Bruxelles, Belgium)](https://c
 ## Data
 
 ## Media coverage
+
+## Awards
+
++ Łukasz Chrostowski -- [wyróżnienie](./awards/pti-2024.pdf) za pracę mgr "Statistical inference with non-probability samples" w konkursie "XLI Ogólnopolskiego Konkursu Polskiego Towarzystwa Informatycznego na najlepsze prace magisterskie z informatyki, zorganizowanego w 2024 roku" -- [strona organizatorów](https://kpm.pti.org.pl/archive/applications)
