@@ -16,6 +16,9 @@ Table of contents:
 
 ### Papers
 
++ Beręsewicz, Szymkowiak, Chlebicki (2025) *Quantile balancing inverse probability weighting for non-probability samples* accepted to the Survey Methodology journal (planned for December 2025, [paper](https://arxiv.org/abs/2403.09726), [replication](https://github.com/ncn-foreigners/paper-nonprob-qcal)) 
+
+
 ### Conference proceedings
 
 + Beręsewicz, M. (2023). *Ilu jest w Polsce cudzoziemców? Ujęcie statystyczne i ekonomiczne*. W M. Świtoński (red.), Migracje – historia i teraźniejszość (s. 35–50). Polska Akademia Nauk, Oddział w Poznaniu.
@@ -27,7 +30,6 @@ Table of contents:
 
 + Beręsewicz (2024) *A note on quantile balanced sampling* ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling), [replication](https://github.com/ncn-foreigners/paper-qbalanced-sampling))
 + Chlebicki, Chrostowski, Beręsewicz (2024) *Data integration of non-probability and probability samples with predictive mean matching* ([paper](https://arxiv.org/abs/2403.13750v1), [replication](https://github.com/ncn-foreigners/paper-nonprob-pmm))
-+ Beręsewicz, Szymkowiak (2024) *Inference for non-probability samples using the calibration approach for quantiles* ([paper](https://arxiv.org/abs/2403.09726), [replication](https://github.com/ncn-foreigners/paper-nonprob-qcal))
 + Beręsewicz (2024) *Survey calibration for causal inference: a simple method to balance covariate distributions* ([paper]([https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies/blob/main/paper/2023-beresewicz-causal-balancing.pdf](https://arxiv.org/abs/2310.11969)), [replication](https://github.com/ncn-foreigners/paper-note-quantiles-obs-studies))
 + Chrostowski, Beręsewicz (2023) *Modern inference methods for non-probability samples with R* ([book](https://ncn-foreigners.github.io/nonprobsvy-book/))
 + Beręsewicz, Szymkowiak (2023) *A note on joint calibration estimators for totals and quantiles*  ([paper](https://github.com/ncn-foreigners/paper-note-joint-calibration/blob/main/paper/beresewicz-szymkowiak-jointcalib.pdf), [replication](https://github.com/ncn-foreigners/paper-note-joint-calibration))
