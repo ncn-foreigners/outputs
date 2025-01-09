@@ -3,7 +3,7 @@
 Table of contents:
 
 1.  [Publications](#publications)
-2.  [Working papers](#working-papers)
+2.  [Working materials](#working-materials)
 3.  [Conferences](#conferences)
 4.  [Theses](#theses)
 5.  [Software](#software)
@@ -33,7 +33,7 @@ Table of contents:
 
 ### Books
 
-## Working papers {#working-papers}
+## Working materials {#working-materials}
 
 -   Beręsewicz (2024) *A note on quantile balanced sampling*
     ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling),
@@ -59,6 +59,10 @@ Table of contents:
     [replication](https://github.com/ncn-foreigners/paper-nour-note))
 
 ## Conferences {#conferences}
+
+### 2025
+
+### 2024
 
 ### 2023
 
@@ -210,4 +214,5 @@ Table of contents:
     "XLI Ogólnopolskiego Konkursu Polskiego Towarzystwa Informatycznego
     na najlepsze prace magisterskie z informatyki, zorganizowanego w
     2024 roku" -- [strona
-    organizatorów](https://kpm.pti.org.pl/archive/applications), [news UAM](https://wmi.amu.edu.pl/wiadomosci/sukcesy/wyroznienie-dla-pracy-dyplomowej-naszego-absolwenta)
+    organizatorów](https://kpm.pti.org.pl/archive/applications), [news
+    UAM](https://wmi.amu.edu.pl/wiadomosci/sukcesy/wyroznienie-dla-pracy-dyplomowej-naszego-absolwenta)
