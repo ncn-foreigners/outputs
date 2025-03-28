@@ -209,10 +209,16 @@ Table of contents:
 
 ## Awards {#awards}
 
--   Łukasz Chrostowski -- [wyróżnienie](./awards/pti-2024.pdf) za pracę
-    mgr "Statistical inference with non-probability samples" w konkursie
-    "XLI Ogólnopolskiego Konkursu Polskiego Towarzystwa Informatycznego
-    na najlepsze prace magisterskie z informatyki, zorganizowanego w
-    2024 roku" -- [strona
+-   *Łukasz Chrostowski* -- [wyróżnienie](./awards/pti-2024.pdf) za
+    pracę mgr "Statistical inference with non-probability samples" w
+    konkursie "XLI Ogólnopolskiego Konkursu Polskiego Towarzystwa
+    Informatycznego na najlepsze prace magisterskie z informatyki,
+    zorganizowanego w 2024 roku" -- [strona
     organizatorów](https://kpm.pti.org.pl/archive/applications), [news
     UAM](https://wmi.amu.edu.pl/wiadomosci/sukcesy/wyroznienie-dla-pracy-dyplomowej-naszego-absolwenta)
+-   *Łukasz Chrostowski* -- 2 miejsce za pracę mgr "Statistical
+    inference with non-probability samples" w "59. edycji Konkursu na
+    najlepszą pracę studencką z teorii prawdopodobieństwa i zastosowań
+    matematyki" organizowanego przez Polskie Towarzystwo Matematyczne --
+    [strona
+    organizatorów](https://www.ptm.org.pl/konkursy/wyniki-kolejnych-edycji-konkursu-na-najlepsza-prace-studencka-z-teorii-prawdopodobienstwa-i)
