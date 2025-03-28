@@ -1,6 +1,6 @@
 # Project's outputs
 
-Table of contents:
+Table of contents
 
 1.  [Publications](#sec-publications)
 2.  [Working materials](#sec-working-materials)
@@ -13,7 +13,7 @@ Table of contents:
 9.  [Media coverage](#sec-media-coverage)
 10. [Awards](#sec-awards)
 
-## Publications {#sec-publications}
+# Publications {#sec-publications}
 
 ### Papers
 
@@ -59,7 +59,7 @@ Table of contents:
     ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf),
     [replication](https://github.com/ncn-foreigners/paper-nour-note))
 
-## Conferences {#sec-conferences}
+# Conferences {#sec-conferences}
 
 ### 2025
 
@@ -135,7 +135,7 @@ Table of contents:
     konf](https://sites.google.com/view/msa2021pl/program/program-konferencji),
     [prezentacja](presentations/2022-beresewicz-s3ri.pdf))
 
-## Theses {#sec-theses}
+# Theses {#sec-theses}
 
 -   Chlebicki (2022) -- Point and interval estimation of hidden
     population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej
@@ -155,7 +155,7 @@ Table of contents:
     nieprobablistycznych) -- [praca
     magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
 
-## Seminars {#sec-seminars}
+# Seminars {#sec-seminars}
 
 -   2025.03.28 - [The University of Oxford's Centre on Migration, Policy
     and Society (COMPAS)](https://www.compas.ox.ac.uk), "Estimation of
@@ -163,7 +163,7 @@ Table of contents:
     regression models",
     [presentation](presentations/2025_compas_oxford_seminar.pdf)
 
-## Software {#sec-software}
+# Software {#sec-software}
 
 ### CRAN
 
@@ -219,11 +219,11 @@ Table of contents:
     package
     ([materials](https://github.com/ncn-foreigners/Workshop-on-Survey-Statistics-2024-nonprobsvy))
 
-## Data {#sec-data}
+# Data {#sec-data}
 
-## Media coverage {#sec-media-coverage}
+# Media coverage {#sec-media-coverage}
 
-## Awards {#sec-awards}
+# Awards {#sec-awards}
 
 -   *Łukasz Chrostowski* -- [wyróżnienie](./awards/pti-2024.pdf) za
     pracę mgr "Statistical inference with non-probability samples" w
@@ -231,13 +231,13 @@ Table of contents:
     Informatycznego na najlepsze prace magisterskie z informatyki,
     zorganizowanego w 2024 roku" -- [strona
     organizatorów](https://kpm.pti.org.pl/archive/applications), [news
-    UAM](https://wmi.amu.edu.pl/wiadomosci/sukcesy/wyroznienie-dla-pracy-dyplomowej-naszego-absolwenta)
+    UAM](https://wmi.amu.edu.pl/wiadomosci/sukcesy/wyroznienie-dla-pracy-dyplomowej-naszego-absolwenta), [news UAM 2, s. 5](https://wmi.amu.edu.pl/__data/assets/pdf_file/0035/578609/info-311.pdf), [news UEP](https://ue.poznan.pl/aktualnosci/sukces-stypendysty-grantu-ncn-opus-20-w-konkursie-polskiego-towarzystwa-informatycznego/)
 -   *Łukasz Chrostowski* -- [2 miejsce]() za pracę mgr "Statistical
     inference with non-probability samples" w "59. edycji Konkursu na
     najlepszą pracę studencką z teorii prawdopodobieństwa i zastosowań
     matematyki" organizowanego przez Polskie Towarzystwo Matematyczne --
     [strona
-    organizatorów](https://www.ptm.org.pl/konkursy/wyniki-kolejnych-edycji-konkursu-na-najlepsza-prace-studencka-z-teorii-prawdopodobienstwa-i)
+    organizatorów](https://www.ptm.org.pl/konkursy/wyniki-kolejnych-edycji-konkursu-na-najlepsza-prace-studencka-z-teorii-prawdopodobienstwa-i), [news UAM (s. 4)](https://wmi.amu.edu.pl/__data/assets/pdf_file/0030/588090/2025-luty.pdf), [news UEP](https://ue.poznan.pl/aktualnosci/sukces-stypendysty-grantu-ncn-opus-20-w-konkursie-polskiego-towarzystwa-matematycznego-2/)
 -   *Łukasz Chrostowski* -- [wyróżnienie]() za pracę mgr "Statistical
     inference with non-probability samples" w konkursie "XXI edycja
     konkursu Miasta Poznania na najlepsze prace magisterskie i
