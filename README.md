@@ -2,16 +2,16 @@
 
 Table of contents
 
-1.  [Publications](#sec-publications)
-2.  [Working materials](#sec-working-materials)
-3.  [Conferences](#sec-conferences)
-4.  [Seminars](#sec-seminars)
-5.  [Theses](#sec-theses)
-6.  [Software](#sec-software)
-7.  [Workshops](#sec-workshops)
-8.  [Data](#sec-data)
-9.  [Media coverage](#sec-media-coverage)
-10. [Awards](#sec-awards)
+1.  [Publications](#publications)
+2.  [Working materials](#working-materials)
+3.  [Conferences](#conferences)
+4.  [Seminars](#seminars)
+5.  [Theses](#theses)
+6.  [Software](#software)
+7.  [Workshops](#workshops)
+8.  [Data](#data)
+9.  [Media coverage](#media-coverage)
+10. [Awards](#awards)
 
 # Publications
 
