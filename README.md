@@ -5,12 +5,13 @@ Table of contents:
 1.  [Publications](#publications)
 2.  [Working materials](#working-materials)
 3.  [Conferences](#conferences)
-4.  [Theses](#theses)
-5.  [Software](#software)
-6.  [Workshops](#workshops)
-7.  [Data](#data)
-8.  [Media coverage](#media-coverage)
-9.  [Awards](#awards)
+4.  [Seminars](#seminars)
+5.  [Theses](#theses)
+6.  [Software](#software)
+7.  [Workshops](#workshops)
+8.  [Data](#data)
+9.  [Media coverage](#media-coverage)
+10. [Awards](#awards)
 
 ## Publications {#publications}
 
@@ -154,22 +155,29 @@ Table of contents:
     nieprobablistycznych) -- [praca
     magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
 
+## Seminars {#seminars}
+
+-   2025.03.28 - [The University of Oxford's Centre on Migration, Policy
+    and Society (COMPAS)](https://www.compas.ox.ac.uk), "Estimation of
+    the number of irregular foreigners in Poland using non-linear count
+    regression models",
+    [presentation](presentations/2025_compas_oxford_seminar.pdf)
+
 ## Software {#software}
 
 ### CRAN
 
 -   [singleRcapture](https://github.com/ncn-foreigners/singleRcapture)
     -- an R package for single-source capture-recapture methods
-    [[0.2.1.1 on
-    CRAN](https://CRAN.R-project.org/package=singleRcapture)]
+    [[CRAN](https://CRAN.R-project.org/package=singleRcapture)]
     [[website](https://ncn-foreigners.github.io/singleRcapture/)]
 -   [jointCalib](https://github.com/ncn-foreigners/jointCalib) -- A
-    small package for joint calibration of totals and quantiles [[0.1.0
-    on CRAN](https://CRAN.R-project.org/package=jointCalib)]
+    small package for joint calibration of totals and quantiles
+    [[CRAN](https://CRAN.R-project.org/package=jointCalib)]
     [[website](https://ncn-foreigners.github.io/jointCalib/)]
 -   [nonprobsvy](https://github.com/ncn-foreigners/nonprobsvy) -- an R
-    package for modern methods for non-probability surveys [[0.1.0 on
-    CRAN](https://CRAN.R-project.org/package=nonprobsvy)]
+    package for modern methods for non-probability surveys
+    [[CRAN](https://CRAN.R-project.org/package=nonprobsvy)]
     [[website](https://ncn-foreigners.github.io/nonprobsvy/)]
 
 ### Development
@@ -216,9 +224,19 @@ Table of contents:
     zorganizowanego w 2024 roku" -- [strona
     organizatorów](https://kpm.pti.org.pl/archive/applications), [news
     UAM](https://wmi.amu.edu.pl/wiadomosci/sukcesy/wyroznienie-dla-pracy-dyplomowej-naszego-absolwenta)
--   *Łukasz Chrostowski* -- 2 miejsce za pracę mgr "Statistical
+-   *Łukasz Chrostowski* -- [2 miejsce]() za pracę mgr "Statistical
     inference with non-probability samples" w "59. edycji Konkursu na
     najlepszą pracę studencką z teorii prawdopodobieństwa i zastosowań
     matematyki" organizowanego przez Polskie Towarzystwo Matematyczne --
     [strona
     organizatorów](https://www.ptm.org.pl/konkursy/wyniki-kolejnych-edycji-konkursu-na-najlepsza-prace-studencka-z-teorii-prawdopodobienstwa-i)
+-   *Łukasz Chrostowski* -- [wyróżnienie]() za pracę mgr "Statistical
+    inference with non-probability samples" w konkursie "XXI edycja
+    konkursu Miasta Poznania na najlepsze prace magisterskie i
+    doktorskie", [strona
+    organizatorów](https://www.poznan.pl/mim/studia/news/konkurs-miasta-poznania-na-najlepsze-prace-magisterskie-i-doktorskie,214238.html)
+-   *Piotr Chlebicki* -- [wyróżnienie]() za pracę mgr "Wektorowe
+    uogólnione modele liniowe oraz ich wybrane zastosowania" w konkursie
+    "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
+    i doktorskie" [strona
+    organizatorów](https://www.poznan.pl/mim/studia/news/konkurs-miasta-poznania-na-najlepsze-prace-magisterskie-i-doktorskie,214238.html)
