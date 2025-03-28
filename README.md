@@ -13,7 +13,7 @@ Table of contents
 9.  [Media coverage](#sec-media-coverage)
 10. [Awards](#sec-awards)
 
-# Publications {#sec-publications}
+# Publications
 
 ### Papers
 
@@ -34,7 +34,7 @@ Table of contents
 
 ### Books
 
-## Working materials {#sec-working-materials}
+## Working materials
 
 -   Beręsewicz (2024) *A note on quantile balanced sampling*
     ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling),
@@ -59,7 +59,7 @@ Table of contents
     ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf),
     [replication](https://github.com/ncn-foreigners/paper-nour-note))
 
-# Conferences {#sec-conferences}
+# Conferences
 
 ### 2025
 
@@ -135,7 +135,7 @@ Table of contents
     konf](https://sites.google.com/view/msa2021pl/program/program-konferencji),
     [prezentacja](presentations/2022-beresewicz-s3ri.pdf))
 
-# Theses {#sec-theses}
+# Theses
 
 -   Chlebicki (2022) -- Point and interval estimation of hidden
     population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej
@@ -155,7 +155,7 @@ Table of contents
     nieprobablistycznych) -- [praca
     magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
 
-# Seminars {#sec-seminars}
+# Seminars
 
 -   2025.03.28 - [The University of Oxford's Centre on Migration, Policy
     and Society (COMPAS)](https://www.compas.ox.ac.uk), "Estimation of
@@ -163,7 +163,7 @@ Table of contents
     regression models",
     [presentation](presentations/2025_compas_oxford_seminar.pdf)
 
-# Software {#sec-software}
+# Software
 
 ### CRAN
 
@@ -199,7 +199,7 @@ Table of contents
 -   [singleRcaptureExtra](https://github.com/ncn-foreigners/singleRcaptureExtra)
     -- An R package for singleRcapture methods for VGAM and countreg
 
-## Workshops {#sec-workshops}
+## Workshops
 
 -   2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z
     wykorzystaniem pakietu
@@ -219,11 +219,11 @@ Table of contents
     package
     ([materials](https://github.com/ncn-foreigners/Workshop-on-Survey-Statistics-2024-nonprobsvy))
 
-# Data {#sec-data}
+# Data
 
-# Media coverage {#sec-media-coverage}
+# Media coverage
 
-# Awards {#sec-awards}
+# Awards
 
 -   *Łukasz Chrostowski* -- [wyróżnienie](./awards/pti-2024.pdf) za
     pracę mgr "Statistical inference with non-probability samples" w
