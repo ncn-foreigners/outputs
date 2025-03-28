@@ -2,18 +2,18 @@
 
 Table of contents:
 
-1.  [Publications](#publications)
-2.  [Working materials](#working-materials)
-3.  [Conferences](#conferences)
-4.  [Seminars](#seminars)
-5.  [Theses](#theses)
-6.  [Software](#software)
-7.  [Workshops](#workshops)
-8.  [Data](#data)
-9.  [Media coverage](#media-coverage)
-10. [Awards](#awards)
+1.  [Publications](#sec-publications)
+2.  [Working materials](#sec-working-materials)
+3.  [Conferences](#sec-conferences)
+4.  [Seminars](#sec-seminars)
+5.  [Theses](#sec-theses)
+6.  [Software](#sec-software)
+7.  [Workshops](#sec-workshops)
+8.  [Data](#sec-data)
+9.  [Media coverage](#sec-media-coverage)
+10. [Awards](#sec-awards)
 
-## Publications {#publications}
+## Publications {#sec-publications}
 
 ### Papers
 
@@ -34,7 +34,7 @@ Table of contents:
 
 ### Books
 
-## Working materials {#working-materials}
+## Working materials {#sec-working-materials}
 
 -   Beręsewicz (2024) *A note on quantile balanced sampling*
     ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling),
@@ -59,7 +59,7 @@ Table of contents:
     ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf),
     [replication](https://github.com/ncn-foreigners/paper-nour-note))
 
-## Conferences {#conferences}
+## Conferences {#sec-conferences}
 
 ### 2025
 
@@ -135,7 +135,7 @@ Table of contents:
     konf](https://sites.google.com/view/msa2021pl/program/program-konferencji),
     [prezentacja](presentations/2022-beresewicz-s3ri.pdf))
 
-## Theses {#theses}
+## Theses {#sec-theses}
 
 -   Chlebicki (2022) -- Point and interval estimation of hidden
     population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej
@@ -155,7 +155,7 @@ Table of contents:
     nieprobablistycznych) -- [praca
     magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
 
-## Seminars {#seminars}
+## Seminars {#sec-seminars}
 
 -   2025.03.28 - [The University of Oxford's Centre on Migration, Policy
     and Society (COMPAS)](https://www.compas.ox.ac.uk), "Estimation of
@@ -163,7 +163,7 @@ Table of contents:
     regression models",
     [presentation](presentations/2025_compas_oxford_seminar.pdf)
 
-## Software {#software}
+## Software {#sec-software}
 
 ### CRAN
 
@@ -180,6 +180,14 @@ Table of contents:
     [[CRAN](https://CRAN.R-project.org/package=nonprobsvy)]
     [[website](https://ncn-foreigners.github.io/nonprobsvy/)]
 
+### PyPi
+
+-   [BlockingPy](https://github.com/ncn-foreigners/singleRcapture) -- a
+    Python package that implements efficient blocking methods for record
+    linkage and data deduplication using Approximate Nearest Neighbour
+    (ANN) algorithms. [[PyPi](https://pypi.org/project/blockingpy/)]
+    [[website](https://blockingpy.readthedocs.io/en/latest/)]
+
 ### Development
 
 -   [mecRecordLinkage](https://github.com/ncn-foreigners/mecRecordLinkage)
@@ -191,7 +199,7 @@ Table of contents:
 -   [singleRcaptureExtra](https://github.com/ncn-foreigners/singleRcaptureExtra)
     -- An R package for singleRcapture methods for VGAM and countreg
 
-## Workshops {#workshops}
+## Workshops {#sec-workshops}
 
 -   2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z
     wykorzystaniem pakietu
@@ -211,11 +219,11 @@ Table of contents:
     package
     ([materials](https://github.com/ncn-foreigners/Workshop-on-Survey-Statistics-2024-nonprobsvy))
 
-## Data {#data}
+## Data {#sec-data}
 
-## Media coverage {#media-coverage}
+## Media coverage {#sec-media-coverage}
 
-## Awards {#awards}
+## Awards {#sec-awards}
 
 -   *Łukasz Chrostowski* -- [wyróżnienie](./awards/pti-2024.pdf) za
     pracę mgr "Statistical inference with non-probability samples" w
