@@ -262,7 +262,7 @@ Table of contents
 
 # Awards {#awards}
 
--   *Łukasz Chrostowski* -- [wyróżnienie](./awards/pti-2024.pdf) za
+-   *Łukasz Chrostowski* (2024) -- [wyróżnienie](./awards/pti-2024.pdf) za
     pracę mgr "Statistical inference with non-probability samples" w
     konkursie "XLI Ogólnopolskiego Konkursu Polskiego Towarzystwa
     Informatycznego na najlepsze prace magisterskie z informatyki,
@@ -273,7 +273,7 @@ Table of contents
     5](https://wmi.amu.edu.pl/__data/assets/pdf_file/0035/578609/info-311.pdf),
     [news
     UEP](https://ue.poznan.pl/aktualnosci/sukces-stypendysty-grantu-ncn-opus-20-w-konkursie-polskiego-towarzystwa-informatycznego/)
--   *Łukasz Chrostowski* -- [2 miejsce]() za pracę mgr "Statistical
+-   *Łukasz Chrostowski* (2025) -- [2 miejsce]() za pracę mgr "Statistical
     inference with non-probability samples" w "59. edycji Konkursu na
     najlepszą pracę studencką z teorii prawdopodobieństwa i zastosowań
     matematyki" organizowanego przez Polskie Towarzystwo Matematyczne --
@@ -283,12 +283,12 @@ Table of contents
     4)](https://wmi.amu.edu.pl/__data/assets/pdf_file/0030/588090/2025-luty.pdf),
     [news
     UEP](https://ue.poznan.pl/aktualnosci/sukces-stypendysty-grantu-ncn-opus-20-w-konkursie-polskiego-towarzystwa-matematycznego-2/)
--   *Łukasz Chrostowski* -- [wyróżnienie]() za pracę mgr "Statistical
+-   *Łukasz Chrostowski* (2025) -- [wyróżnienie]() za pracę mgr "Statistical
     inference with non-probability samples" w konkursie "XXI edycja
     konkursu Miasta Poznania na najlepsze prace magisterskie i
     doktorskie", [strona
     organizatorów](https://www.poznan.pl/mim/studia/news/konkurs-miasta-poznania-na-najlepsze-prace-magisterskie-i-doktorskie,214238.html)
--   *Piotr Chlebicki* -- [wyróżnienie]() za pracę mgr "Wektorowe
+-   *Piotr Chlebicki* (2025) -- [wyróżnienie]() za pracę mgr "Wektorowe
     uogólnione modele liniowe oraz ich wybrane zastosowania" w konkursie
     "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
     i doktorskie" [strona
