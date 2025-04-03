@@ -36,6 +36,9 @@ Table of contents
 
 ## Working materials
 
+-   Chlebicki, Beręsewicz (2025), *singleRcapture: An Package for Single-Source Capture-Recapture Models* ([paper](https://github.com/ncn-foreigners/paper-singleRcapture), [replication](https://github.com/ncn-foreigners/paper-singleRcapture))
+-   Strojny, Beręsewicz (2025), *BlockingPy: approximate nearest neighbours for blocking of records for entity resolution* ([paper](https://github.com/ncn-foreigners/paper-blockingpy), [replication](https://github.com/ncn-foreigners/paper-blockingpy))
+-   Chrostowski, Chlebicki, Beręsewicz (2025), *nonprobsvy -- An R package for modern methods for non-probability surveys*, ([paper](https://github.com/ncn-foreigners/paper-nonprobsvy), [replication](https://github.com/ncn-foreigners/paper-nonprobsvy))
 -   Beręsewicz (2024) *A note on quantile balanced sampling*
     ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling),
     [replication](https://github.com/ncn-foreigners/paper-qbalanced-sampling))
