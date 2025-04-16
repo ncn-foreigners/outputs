@@ -309,7 +309,7 @@ Table of contents
 -   *Łukasz Chrostowski* (2025) -- [wyróżnienie]() za pracę mgr
     "Statistical inference with non-probability samples" w konkursie
     "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
-    i doktorskie", [strona
+    i doktorskie", [zdjecie](figs/poznan03.png), [strona
     organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
 -   *Piotr Chlebicki* (2025) -- [wyróżnienie]() za pracę mgr "Wektorowe
     uogólnione modele liniowe oraz ich wybrane zastosowania" w konkursie
