@@ -13,7 +13,7 @@ Table of contents
 9.  [Media coverage](#media-coverage)
 10. [Awards](#awards)
 
-# Publications
+# Publications {#publications}
 
 ### Papers
 
@@ -34,11 +34,20 @@ Table of contents
 
 ### Books
 
-## Working materials
+## Working materials {#working-materials}
 
--   Chlebicki, Beręsewicz (2025), *singleRcapture: An Package for Single-Source Capture-Recapture Models* ([paper](https://github.com/ncn-foreigners/paper-singleRcapture), [replication](https://github.com/ncn-foreigners/paper-singleRcapture))
--   Strojny, Beręsewicz (2025), *BlockingPy: approximate nearest neighbours for blocking of records for entity resolution* ([paper](https://github.com/ncn-foreigners/paper-blockingpy), [replication](https://github.com/ncn-foreigners/paper-blockingpy))
--   Chrostowski, Chlebicki, Beręsewicz (2025), *nonprobsvy -- An R package for modern methods for non-probability surveys*, ([paper](https://github.com/ncn-foreigners/paper-nonprobsvy), [replication](https://github.com/ncn-foreigners/paper-nonprobsvy))
+-   Chlebicki, Beręsewicz (2025), *singleRcapture: An Package for
+    Single-Source Capture-Recapture Models*
+    ([paper](https://github.com/ncn-foreigners/paper-singleRcapture),
+    [replication](https://github.com/ncn-foreigners/paper-singleRcapture))
+-   Strojny, Beręsewicz (2025), *BlockingPy: approximate nearest
+    neighbours for blocking of records for entity resolution*
+    ([paper](https://github.com/ncn-foreigners/paper-blockingpy),
+    [replication](https://github.com/ncn-foreigners/paper-blockingpy))
+-   Chrostowski, Chlebicki, Beręsewicz (2025), *nonprobsvy -- An R
+    package for modern methods for non-probability surveys*,
+    ([paper](https://github.com/ncn-foreigners/paper-nonprobsvy),
+    [replication](https://github.com/ncn-foreigners/paper-nonprobsvy))
 -   Beręsewicz (2024) *A note on quantile balanced sampling*
     ([paper](https://github.com/ncn-foreigners/paper-qbalanced-sampling),
     [replication](https://github.com/ncn-foreigners/paper-qbalanced-sampling))
@@ -62,7 +71,7 @@ Table of contents
     ([paper](https://github.com/ncn-foreigners/paper-nour-note/blob/main/paper/note_on_nour.pdf),
     [replication](https://github.com/ncn-foreigners/paper-nour-note))
 
-# Conferences
+# Conferences {#conferences}
 
 ### 2025
 
@@ -186,7 +195,7 @@ Table of contents
     konf](https://sites.google.com/view/msa2021pl/program/program-konferencji),
     [prezentacja](presentations/2022-beresewicz-s3ri.pdf))
 
-# Theses
+# Theses {#theses}
 
 -   Chlebicki (2022) -- Point and interval estimation of hidden
     population (pol. Punktowa i przedziałowa estymacja wielkości ukrytej
@@ -206,7 +215,7 @@ Table of contents
     nieprobablistycznych) -- [praca
     magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-Chrostowski.pdf)
 
-# Seminars
+# Seminars {#seminars}
 
 -   2025.03.28 - [The University of Oxford's Centre on Migration, Policy
     and Society (COMPAS)](https://www.compas.ox.ac.uk), "Estimation of
@@ -214,7 +223,7 @@ Table of contents
     regression models",
     [presentation](presentations/2025_compas_oxford_seminar.pdf)
 
-# Software
+# Software {#software}
 
 ### CRAN
 
@@ -250,7 +259,7 @@ Table of contents
 -   [singleRcaptureExtra](https://github.com/ncn-foreigners/singleRcaptureExtra)
     -- An R package for singleRcapture methods for VGAM and countreg
 
-## Workshops
+## Workshops {#workshops}
 
 -   2023.12.08 -- Szkolenie z estymacji na podstawie prób nielosowych z
     wykorzystaniem pakietu
@@ -270,11 +279,11 @@ Table of contents
     package
     ([materials](https://github.com/ncn-foreigners/Workshop-on-Survey-Statistics-2024-nonprobsvy))
 
-# Data
+# Data {#data}
 
-# Media coverage
+# Media coverage {#media-coverage}
 
-# Awards
+# Awards {#awards}
 
 -   *Łukasz Chrostowski* (2024) -- [wyróżnienie](./awards/pti-2024.pdf)
     za pracę mgr "Statistical inference with non-probability samples" w
@@ -298,12 +307,12 @@ Table of contents
     [news
     UEP](https://ue.poznan.pl/aktualnosci/sukces-stypendysty-grantu-ncn-opus-20-w-konkursie-polskiego-towarzystwa-matematycznego-2/)
 -   *Łukasz Chrostowski* (2025) -- [wyróżnienie]() za pracę mgr
-     "Statistical inference with non-probability samples" w konkursie
-     "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
-     i doktorskie", [strona
-     organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
+    "Statistical inference with non-probability samples" w konkursie
+    "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
+    i doktorskie", [strona
+    organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
 -   *Piotr Chlebicki* (2025) -- [wyróżnienie]() za pracę mgr "Wektorowe
-     uogólnione modele liniowe oraz ich wybrane zastosowania" w konkursie
-     "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
-     i doktorskie" [strona
-     organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
+    uogólnione modele liniowe oraz ich wybrane zastosowania" w konkursie
+    "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
+    i doktorskie" [strona
+    organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
