@@ -297,3 +297,13 @@ Table of contents
     4)](https://wmi.amu.edu.pl/__data/assets/pdf_file/0030/588090/2025-luty.pdf),
     [news
     UEP](https://ue.poznan.pl/aktualnosci/sukces-stypendysty-grantu-ncn-opus-20-w-konkursie-polskiego-towarzystwa-matematycznego-2/)
+-   *Łukasz Chrostowski* (2025) -- [wyróżnienie]() za pracę mgr
+     "Statistical inference with non-probability samples" w konkursie
+     "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
+     i doktorskie", [strona
+     organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
+-   *Piotr Chlebicki* (2025) -- [wyróżnienie]() za pracę mgr "Wektorowe
+     uogólnione modele liniowe oraz ich wybrane zastosowania" w konkursie
+     "XXI edycja konkursu Miasta Poznania na najlepsze prace magisterskie
+     i doktorskie" [strona
+     organizatorów](https://www.poznan.pl/mim/studia/laureaci-konkursu-edycja-2024-2025,p,181,182,82666.html)
