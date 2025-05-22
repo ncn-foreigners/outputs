@@ -209,7 +209,7 @@ Table of contents
 -   Chlebicki (2024) -- Vector generalized linear models and their
     selected applications (pol. Wektorowe uogólnione modele liniowe oraz
     ich wybrane zastosowania) -- [praca
-    magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf)
+    magisterska](https://github.com/ncn-foreigners/graduation-theses/blob/main/2024-chlebicki.pdf)
 -   Chrostowski (2024) -- Statistical inference with non-probability
     samples (pol. Wnioskowanie statystyczne na podstawie prób
     nieprobablistycznych) -- [praca
